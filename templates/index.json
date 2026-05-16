@@ -1,0 +1,9 @@
+{
+  "sections": {
+    "main": {
+      "type": "backup-buddy",
+      "settings": {}
+    }
+  },
+  "order": ["main"]
+}
